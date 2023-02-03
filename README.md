@@ -6,5 +6,4 @@ updates made on master on github before rebase
 
 ## Repository Purpose
 
-this change will cause conflicts
-edited locally
+this is just a readme file (from mergetool)
